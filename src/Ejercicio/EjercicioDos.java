@@ -21,7 +21,7 @@ package Ejercicio;
  */
 public class EjercicioDos {
 
-    // List<List<Integer>> subsets(List<Integer> set) {
+    public List<List<Integer>> subsets(List<Integer> set) {
 
-    // }
+     }
 }
